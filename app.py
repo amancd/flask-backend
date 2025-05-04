@@ -8,7 +8,7 @@ app = FastAPI()
 # Allow requests from your frontend (adjust the origin as needed)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # React dev server
+    allow_origins=["https://shl-recommender-app.vercel.app/"],  # React dev server
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

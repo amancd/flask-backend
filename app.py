@@ -1,4 +1,3 @@
-import os
 import uvicorn
 from fastapi import FastAPI
 from models import RecommendationRequest, RecommendationResponse, Assessment
@@ -24,8 +23,3 @@ def health_check():
 def recommend_assessments(payload: RecommendationRequest):
     results = recommend(payload.job_description)
     return {"recommended_assessments": results}
-
-# 👇 Optional for local testing
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=True)

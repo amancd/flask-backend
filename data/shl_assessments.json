@@ -1,0 +1,3647 @@
+{
+    "recommended_assessments": [
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Account Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "P",
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Administrative Professional - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Agency Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+            "adaptive_support": "No",
+            "description": "Apprentice + 8.0 Job Focused Assessment",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+            "adaptive_support": "No",
+            "description": "Apprentice 8.0 Job Focused Assessment",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+            "adaptive_support": "No",
+            "description": "Bank Administrative Assistant - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+            "adaptive_support": "No",
+            "description": "Bank Collections Agent - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Bank Operations Supervisor - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+            "adaptive_support": "Yes",
+            "description": "Bilingual Spanish Reservation Agent Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P",
+                "S",
+                "A"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "S",
+                "K",
+                "B",
+                "A"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+            "adaptive_support": "No",
+            "description": "Branch Manager - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+            "adaptive_support": "Yes",
+            "description": "Cashier Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "A",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/claimsoperations-supervisor-solution/",
+            "adaptive_support": "Yes",
+            "description": "Claims/Operations Supervisor Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "S",
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0/",
+            "adaptive_support": "No",
+            "description": "Contact Center Customer Service + 8.0",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "C",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+            "adaptive_support": "No",
+            "description": "Contact Center Customer Service 8.0",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "S",
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-manager-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Contact Center Manager - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+            "adaptive_support": "No",
+            "description": "Contact Center Sales & Service + 8.0",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "B",
+                "C",
+                "A",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+            "adaptive_support": "No",
+            "description": "Contact Center Sales & Service 8.0",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "S",
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Contact Center Team Lead/Coach - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/contact-centre-agent-solution-uk/",
+            "adaptive_support": "No",
+            "description": "Contact Centre Agent Solution - UK",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Customer Service - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form-uk/",
+            "adaptive_support": "Yes",
+            "description": "Customer Service - Short Form - UK",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/customer-service-with-sales-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Customer Service with Sales - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/director-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Director - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/districtregional-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "District/Regional Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Entry Level Cashier 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P",
+                "A"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+            "adaptive_support": "No",
+            "description": "Entry Level Cashier 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Entry Level Customer Service 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+            "adaptive_support": "No",
+            "description": "Entry Level Customer Service 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+            "adaptive_support": "No",
+            "description": "Entry Level Customer Service 7.1 (South Africa)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Entry level Sales 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1/",
+            "adaptive_support": "No",
+            "description": "Entry level Sales 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+            "adaptive_support": "No",
+            "description": "Entry Level Sales Sift Out 7.1",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "P",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/event-sales-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Event Sales Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "S",
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/executive-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Executive - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/financial-professional-short-form/",
+            "adaptive_support": "No",
+            "description": "Financial Professional - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Account Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "P",
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Administrative Professional - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Agency Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+            "adaptive_support": "No",
+            "description": "Apprentice + 8.0 Job Focused Assessment",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+            "adaptive_support": "No",
+            "description": "Apprentice 8.0 Job Focused Assessment",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+            "adaptive_support": "No",
+            "description": "Bank Administrative Assistant - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+            "adaptive_support": "No",
+            "description": "Bank Collections Agent - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Bank Operations Supervisor - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+            "adaptive_support": "Yes",
+            "description": "Bilingual Spanish Reservation Agent Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P",
+                "S",
+                "A"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "S",
+                "K",
+                "B",
+                "A"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+            "adaptive_support": "No",
+            "description": "Branch Manager - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+            "adaptive_support": "Yes",
+            "description": "Cashier Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "A",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-professional-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Professional Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-representative-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Representative Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-supervisor-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Supervisor Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-support-specialist-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Support Specialist Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/senior-insurance-agent-solution/",
+            "adaptive_support": "No",
+            "description": "Senior Insurance Agent Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/senior-sales-professional-solution/",
+            "adaptive_support": "Yes",
+            "description": "Senior Sales Professional Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/server-solution/",
+            "adaptive_support": "Yes",
+            "description": "Server Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "A",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/service-associate-solution/",
+            "adaptive_support": "Yes",
+            "description": "Service Associate Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/service-supervisor-solution/",
+            "adaptive_support": "Yes",
+            "description": "Service Supervisor Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/stock-clerk-solution/",
+            "adaptive_support": "No",
+            "description": "Stock Clerk Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Store Manager 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Store Manager 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Industrial - Semi-skilled 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+            "adaptive_support": "No",
+            "description": "Industrial - Semi-skilled 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Industrial Professional and Skilled 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+            "adaptive_support": "No",
+            "description": "Industrial Professional and Skilled 7.1 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/installation-and-repair-technician-solution/",
+            "adaptive_support": "Yes",
+            "description": "Installation and Repair Technician Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/insurance-account-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Insurance Account Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/insurance-administrative-assistant-solution/",
+            "adaptive_support": "Yes",
+            "description": "Insurance Administrative Assistant Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/insurance-agent-solution/",
+            "adaptive_support": "Yes",
+            "description": "Insurance Agent Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/insurance-director-solution/",
+            "adaptive_support": "Yes",
+            "description": "Insurance Director Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/insurance-sales-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Insurance Sales Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Manager - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "K",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-7-0-solution-3955/",
+            "adaptive_support": "Yes",
+            "description": "Manager + 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-solution-4242/",
+            "adaptive_support": "Yes",
+            "description": "Manager + 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28international%29/",
+            "adaptive_support": "Yes",
+            "description": "Manager + 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Manager 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Manager 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-solution/",
+            "adaptive_support": "No",
+            "description": "Manager 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-8-0-jfa/",
+            "adaptive_support": "No",
+            "description": "Manager 8.0 JFA",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manager-8-0-jfa-4310/",
+            "adaptive_support": "No",
+            "description": "Manager 8.0+ JFA",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manufacturing-production-team-member/",
+            "adaptive_support": "No",
+            "description": "Manufacturing Production Team Member",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/manufacturing-skilled-maintenance-worker/",
+            "adaptive_support": "No",
+            "description": "Manufacturing Skilled Maintenance Worker",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/network-engineeranalyst-solution/",
+            "adaptive_support": "Yes",
+            "description": "Network Engineer/Analyst Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "S",
+                "K",
+                "B",
+                "A"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/nurse-leader-solution/",
+            "adaptive_support": "Yes",
+            "description": "Nurse Leader Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "S",
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/nurse-solution/",
+            "adaptive_support": "Yes",
+            "description": "Nurse Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "A",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/nursing-assistant-solution/",
+            "adaptive_support": "No",
+            "description": "Nursing Assistant Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/personal-banker-short-form/",
+            "adaptive_support": "No",
+            "description": "Personal Banker - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "K",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/phone-banker-short-form/",
+            "adaptive_support": "No",
+            "description": "Phone Banker - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/prepline-cook-solution/",
+            "adaptive_support": "Yes",
+            "description": "Prep/Line Cook Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution-3958/",
+            "adaptive_support": "Yes",
+            "description": "Professional + 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-%28americas%29/",
+            "adaptive_support": "Yes",
+            "description": "Professional + 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+            "adaptive_support": "Yes",
+            "description": "Professional + 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Professional 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution-4247/",
+            "adaptive_support": "No",
+            "description": "Professional 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/professional-8-0-jfa/",
+            "adaptive_support": "No",
+            "description": "Professional 8.0 JFA",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/professionalindividual-contributor-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Professional/Individual Contributor - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/project-manager-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Project Manager - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+            "adaptive_support": "No",
+            "description": "Proof Operator - Processing Specialist -Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/reservation-agent-solution/",
+            "adaptive_support": "Yes",
+            "description": "Reservation Agent Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "P",
+                "S",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/restaurant-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Restaurant Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/restaurant-supervisor-solution/",
+            "adaptive_support": "Yes",
+            "description": "Restaurant Supervisor Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/retail-consultant-solution/",
+            "adaptive_support": "Yes",
+            "description": "Retail Consultant Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/retail-manager-w-sales-solution/",
+            "adaptive_support": "Yes",
+            "description": "Retail Manager w/ Sales Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/retail-sales-associate-solution/",
+            "adaptive_support": "Yes",
+            "description": "Retail Sales Associate Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-director-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Director Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-engineer-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Engineer Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "K",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Sales Professional 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Sales Professional 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-professional-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Professional Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-representative-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Representative Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-supervisor-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Supervisor Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/sales-support-specialist-solution/",
+            "adaptive_support": "Yes",
+            "description": "Sales Support Specialist Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/senior-insurance-agent-solution/",
+            "adaptive_support": "No",
+            "description": "Senior Insurance Agent Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/senior-sales-professional-solution/",
+            "adaptive_support": "Yes",
+            "description": "Senior Sales Professional Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/server-solution/",
+            "adaptive_support": "Yes",
+            "description": "Server Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "A",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/service-associate-solution/",
+            "adaptive_support": "Yes",
+            "description": "Service Associate Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/service-supervisor-solution/",
+            "adaptive_support": "Yes",
+            "description": "Service Supervisor Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/stock-clerk-solution/",
+            "adaptive_support": "No",
+            "description": "Stock Clerk Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Store Manager 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Store Manager 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28international%29/",
+            "adaptive_support": "No",
+            "description": "Store Manager 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/store-manager-solution/",
+            "adaptive_support": "Yes",
+            "description": "Store Manager Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/supervisor-short-form/",
+            "adaptive_support": "Yes",
+            "description": "Supervisor - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Supervisor 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Supervisor 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28international%29/",
+            "adaptive_support": "No",
+            "description": "Supervisor 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "P",
+                "C",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/support-associate-solution/",
+            "adaptive_support": "Yes",
+            "description": "Support Associate Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/support-supervisor-solution/",
+            "adaptive_support": "Yes",
+            "description": "Support Supervisor Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "P",
+                "S",
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/technical-sales-associate-solution/",
+            "adaptive_support": "No",
+            "description": "Technical Sales Associate Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/techniciantechnologist-solution/",
+            "adaptive_support": "Yes",
+            "description": "Technician/Technologist Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+            "adaptive_support": "No",
+            "description": "Technology Professional 8.0 Job Focused Assessment",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/telenurse-solution/",
+            "adaptive_support": "Yes",
+            "description": "Telenurse Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/teller-7-0/",
+            "adaptive_support": "Yes",
+            "description": "Teller 7.0",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "K",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/teller-with-sales-short-form/",
+            "adaptive_support": "No",
+            "description": "Teller with Sales - Short Form",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "K",
+                "P",
+                "S"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/transcriptionist-solution/",
+            "adaptive_support": "Yes",
+            "description": "Transcriptionist Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "A",
+                "B",
+                "K",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Workplace Safety - Individual 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+            "adaptive_support": "No",
+            "description": "Workplace Safety - Individual 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+            "adaptive_support": "No",
+            "description": "Workplace Safety - Team 7.0 Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+            "adaptive_support": "No",
+            "description": "Workplace Safety - Team 7.1 (Americas)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+            "adaptive_support": "No",
+            "description": "Workplace Safety - Team 7.1 (International)",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "C",
+                "P"
+            ]
+        },
+        {
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-solution/",
+            "adaptive_support": "Yes",
+            "description": "Workplace Safety Solution",
+            "duration": 60,
+            "remote_support": "Yes",
+            "test_type": [
+                "B",
+                "P"
+            ]
+        },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+                "adaptive_support": "No",
+                "description": "Adobe Experience Manager (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+                "adaptive_support": "Yes",
+                "description": "Adobe Photoshop CC",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Aeronautical Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Aerospace Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+                "adaptive_support": "No",
+                "description": "Agile Software Development",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+                "adaptive_support": "No",
+                "description": "Agile Testing (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+                "adaptive_support": "No",
+                "description": "AI Skills",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+                "adaptive_support": "No",
+                "description": "Amazon Web Services (AWS) Development (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+                "adaptive_support": "No",
+                "description": "Android Development (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+                "adaptive_support": "No",
+                "description": "Angular 6 (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+                "adaptive_support": "No",
+                "description": "AngularJS (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+                "adaptive_support": "No",
+                "description": "Apache Hadoop (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+                "adaptive_support": "No",
+                "description": "Apache Hadoop Extensions (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+                "adaptive_support": "No",
+                "description": "Apache HBase (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+                "adaptive_support": "No",
+                "description": "Apache Hive (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+                "adaptive_support": "No",
+                "description": "Apache Kafka (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+                "adaptive_support": "No",
+                "description": "Apache Pig (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+                "adaptive_support": "No",
+                "description": "Apache Spark (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+                "adaptive_support": "No",
+                "description": "ASP .NET with C# (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+                "adaptive_support": "Yes",
+                "description": "ASP.NET 4.5",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+                "adaptive_support": "No",
+                "description": "Assessment and Development Center Exercises",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "E"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+                "adaptive_support": "No",
+                "description": "Automata - Fix (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+                "adaptive_support": "No",
+                "description": "Automata - SQL (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+                "adaptive_support": "No",
+                "description": "Automata (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+                "adaptive_support": "No",
+                "description": "Automata Data Science (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+                "adaptive_support": "No",
+                "description": "Automata Data Science Pro (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+                "adaptive_support": "No",
+                "description": "Automata Front End",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+                "adaptive_support": "No",
+                "description": "Automata Pro (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+                "adaptive_support": "No",
+                "description": "Automata Selenium",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+                "adaptive_support": "No",
+                "description": "Automation Anywhere RPA Development (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Automotive Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+                "adaptive_support": "No",
+                "description": "Basic Biology (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+                "adaptive_support": "No",
+                "description": "Basic Computer Literacy (Windows 10) (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S",
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+                "adaptive_support": "No",
+                "description": "Basic Statistics (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+                "adaptive_support": "No",
+                "description": "Biochemistry (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+                "adaptive_support": "No",
+                "description": "Biotech Lab Techniques (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+                "adaptive_support": "No",
+                "description": "BizTalk (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+                "adaptive_support": "Yes",
+                "description": "Business Communication (adaptive)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+                "adaptive_support": "No",
+                "description": "Business Communications",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+                "adaptive_support": "No",
+                "description": "C Programming (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+                "adaptive_support": "No",
+                "description": "C# Programming (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+                "adaptive_support": "No",
+                "description": "C++ Programming (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+                "adaptive_support": "No",
+                "description": "Cardiology and Diabetes Management (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Ceramic Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Chemical Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+                "adaptive_support": "No",
+                "description": "Cisco AppDynamics (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Civil Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+                "adaptive_support": "No",
+                "description": "Cloud Computing (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+                "adaptive_support": "No",
+                "description": "COBOL Programming (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+                "adaptive_support": "No",
+                "description": "Computer Science (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+                "adaptive_support": "No",
+                "description": "Contact Center Call Simulation (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+                "adaptive_support": "No",
+                "description": "Conversational Multichat Simulation",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+                "adaptive_support": "No",
+                "description": "Core Java (Advanced Level) (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+                "adaptive_support": "No",
+                "description": "Core Java (Entry Level) (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+                "adaptive_support": "Yes",
+                "description": "Count Out The Money",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K",
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+                "adaptive_support": "No",
+                "description": "CSS3 (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+                "adaptive_support": "No",
+                "description": "Culinary Skills (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+                "adaptive_support": "No",
+                "description": "Customer Service Phone Simulation",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B",
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+                "adaptive_support": "No",
+                "description": "Customer Service Phone Solution",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B",
+                    "P",
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+                "adaptive_support": "No",
+                "description": "Cyber Risk (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+                "adaptive_support": "No",
+                "description": "Data Entry (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+                "adaptive_support": "No",
+                "description": "Data Entry Alphanumeric Split Screen - US",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+                "adaptive_support": "No",
+                "description": "Data Entry Numeric Split Screen - US",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+                "adaptive_support": "No",
+                "description": "Data Entry Ten Key Split Screen",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+                "adaptive_support": "No",
+                "description": "Data Science (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+                "adaptive_support": "Yes",
+                "description": "Data Warehousing Concepts",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+                "adaptive_support": "No",
+                "description": "Dependability and Safety Instrument (DSI)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+                "adaptive_support": "No",
+                "description": "Dermatology (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+                "adaptive_support": "No",
+                "description": "Desktop Support (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+                "adaptive_support": "No",
+                "description": "Digital Advertising (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+                "adaptive_support": "No",
+                "description": "Digital Readiness Development Report - IC",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+                "adaptive_support": "No",
+                "description": "Digital Readiness Development Report - Manager",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+                "adaptive_support": "No",
+                "description": "Docker (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+                "adaptive_support": "No",
+                "description": "Dojo (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+                "adaptive_support": "No",
+                "description": "Drupal (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+                "adaptive_support": "No",
+                "description": "DSI v1.1 Interpretation Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+                "adaptive_support": "No",
+                "description": "Econometrics (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+                "adaptive_support": "No",
+                "description": "Economics (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Electrical and Electronics Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Electrical Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Electronics & Telecommunications Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Electronics and Embedded Systems Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Electronics and Semiconductor Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+                "adaptive_support": "No",
+                "description": "English Comprehension (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+                "adaptive_support": "No",
+                "description": "Enterprise Java Beans (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+                "adaptive_support": "No",
+                "description": "Enterprise Leadership Report 1.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+                "adaptive_support": "No",
+                "description": "Enterprise Leadership Report 2.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+                "adaptive_support": "No",
+                "description": "Entry Level Cashier Solution",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+                "adaptive_support": "No",
+                "description": "Entry Level Customer Serv-Retail & Contact Center",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P",
+                    "C"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+                "adaptive_support": "No",
+                "description": "Entry Level Customer Service (General) Solution",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+                "adaptive_support": "No",
+                "description": "Entry Level Hotel Front Desk Solution",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+                "adaptive_support": "No",
+                "description": "Entry Level Sales Solution",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+                "adaptive_support": "No",
+                "description": "Entry Level Technical Support Solution",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P",
+                    "C"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+                "adaptive_support": "No",
+                "description": "ETL Testing (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+                "adaptive_support": "No",
+                "description": "Executive Scenarios",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+                "adaptive_support": "No",
+                "description": "Executive Scenarios Narrative Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+                "adaptive_support": "No",
+                "description": "Executive Scenarios Profile Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+                "adaptive_support": "No",
+                "description": "ExpressJS (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+                "adaptive_support": "No",
+                "description": "Filing - Names (R1)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+                "adaptive_support": "No",
+                "description": "Filing - Numbers",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+                "adaptive_support": "No",
+                "description": "Financial Accounting (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+                "adaptive_support": "No",
+                "description": "Financial and Banking Services (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Fire Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+                "adaptive_support": "No",
+                "description": "Following Instructions v1 - UK (R1)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+                "adaptive_support": "No",
+                "description": "Following Instructions v1 - US (R2)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+                "adaptive_support": "No",
+                "description": "Food and Beverage Services (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+                "adaptive_support": "No",
+                "description": "Food Science (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+                "adaptive_support": "No",
+                "description": "Front Office Management (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+                "adaptive_support": "No",
+                "description": "Fundamentals of Chemistry (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+                "adaptive_support": "No",
+                "description": "Fundamentals of Physics (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+                "adaptive_support": "No",
+                "description": "General Diseases (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Geoinformatics Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Geoscience Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+                "adaptive_support": "No",
+                "description": "GIT (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+                "adaptive_support": "No",
+                "description": "Global Skills Assessment",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C",
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+                "adaptive_support": "No",
+                "description": "Graduate Scenarios",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+                "adaptive_support": "No",
+                "description": "Graduate Scenarios Narrative Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+                "adaptive_support": "No",
+                "description": "Graduate Scenarios Profile Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+                "adaptive_support": "No",
+                "description": "Hibernate (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+                "adaptive_support": "Yes",
+                "description": "HIPAA (Security)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+                "adaptive_support": "No",
+                "description": "HiPo Assessment Report 1.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+                "adaptive_support": "No",
+                "description": "HiPo Assessment Report 2.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+                "adaptive_support": "No",
+                "description": "HiPo Unlocking Potential Report 2.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "C"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+                "adaptive_support": "No",
+                "description": "Housekeeping (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+                "adaptive_support": "No",
+                "description": "HTML/CSS (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+                "adaptive_support": "No",
+                "description": "HTML5 (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+                "adaptive_support": "No",
+                "description": "Human Resources (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+                "adaptive_support": "No",
+                "description": "IBM DataStage (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+                "adaptive_support": "No",
+                "description": "IBM Sterling Order Management System (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Industrial Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+                "adaptive_support": "No",
+                "description": "Informatica (Architecture) (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+                "adaptive_support": "No",
+                "description": "Informatica (Developer) (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Instrumentation Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+                "adaptive_support": "Yes",
+                "description": "Interpersonal Communications",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+                "adaptive_support": "Yes",
+                "description": "Interviewing and Hiring Concepts (U.S.)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+                "adaptive_support": "No",
+                "description": "iOS Development (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+                "adaptive_support": "No",
+                "description": "ITIL (IT Infrastructure Library) (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+                "adaptive_support": "Yes",
+                "description": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+                "adaptive_support": "No",
+                "description": "Java 8 (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+                "adaptive_support": "No",
+                "description": "Java Design Patterns (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+                "adaptive_support": "No",
+                "description": "Java Frameworks (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+                "adaptive_support": "Yes",
+                "description": "Java Platform Enterprise Edition 7 (Java EE 7)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+                "adaptive_support": "No",
+                "description": "Java Web Services (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+                "adaptive_support": "No",
+                "description": "JavaScript (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+                "adaptive_support": "No",
+                "description": "Jenkins (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+                "adaptive_support": "No",
+                "description": "Job Control Language (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+                "adaptive_support": "No",
+                "description": "jQuery (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+                "adaptive_support": "No",
+                "description": "Kubernetes (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+                "adaptive_support": "No",
+                "description": "Linux Administration (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+                "adaptive_support": "No",
+                "description": "Linux Operating System",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+                "adaptive_support": "Yes",
+                "description": "Linux Programming (General)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+                "adaptive_support": "No",
+                "description": "Load Runner (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+                "adaptive_support": "No",
+                "description": "Management Scenarios",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+                "adaptive_support": "No",
+                "description": "Managerial Scenarios Candidate Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+                "adaptive_support": "No",
+                "description": "Managerial Scenarios Narrative Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+                "adaptive_support": "No",
+                "description": "Managerial Scenarios Profile Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "B"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+                "adaptive_support": "No",
+                "description": "Manual Testing (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+                "adaptive_support": "No",
+                "description": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "A",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+                "adaptive_support": "No",
+                "description": "Manufac. & Indust. - Safety & Dependability 8.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+                "adaptive_support": "No",
+                "description": "Manufacturing & Industrial - Essential Focus 8.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+                "adaptive_support": "No",
+                "description": "Manufacturing & Industrial - Mechanical Focus 8.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "A",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+                "adaptive_support": "No",
+                "description": "Manufacturing & Industrial - Vigilance Focus 8.0",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "A",
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+                "adaptive_support": "No",
+                "description": "Marketing (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+                "adaptive_support": "No",
+                "description": "Maven (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Mechanical Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Mechatronics Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+                "adaptive_support": "No",
+                "description": "Medical Terminology (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Metallurgical Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+                "adaptive_support": "No",
+                "description": "MFS 360 Enterprise Leadership Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "D"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+                "adaptive_support": "No",
+                "description": "MFS 360 UCF Group Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "D"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+                "adaptive_support": "No",
+                "description": "MFS 360 UCF Performance Potential Dev Tips Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "D"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+                "adaptive_support": "No",
+                "description": "MFS 360 UCF Standard Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "D"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+                "adaptive_support": "No",
+                "description": "Micro Focus Unified Functional Testing (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+                "adaptive_support": "No",
+                "description": "Microservices (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+                "adaptive_support": "No",
+                "description": "Microsoft Dynamics Development (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+                "adaptive_support": "No",
+                "description": "Microsoft Excel 365 - Essentials (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K",
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+                "adaptive_support": "No",
+                "description": "Microsoft Excel 365 (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K",
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+                "adaptive_support": "Yes",
+                "description": "Microsoft Outlook 2013 (adaptive)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+                "adaptive_support": "No",
+                "description": "Microsoft PowerPoint 365 - Essentials (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K",
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+                "adaptive_support": "Yes",
+                "description": "Microsoft SQL Server 2014 Programming",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+                "adaptive_support": "Yes",
+                "description": "Microsoft Windows Server 2012 Administration",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+                "adaptive_support": "No",
+                "description": "Microsoft Word 365 - Essentials (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K",
+                    "S"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+                "adaptive_support": "No",
+                "description": "Microsoft Word 365 (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "S",
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Mineral Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+                "adaptive_support": "No",
+                "description": "Mining Engineering (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+                "adaptive_support": "No",
+                "description": "Mobility (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+                "adaptive_support": "No",
+                "description": "Molecular Biology (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+                "adaptive_support": "No",
+                "description": "MongoDB (New)",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "K"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+                "adaptive_support": "No",
+                "description": "Motivation Questionnaire MQM5",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+                "adaptive_support": "No",
+                "description": "MQ Candidate Motivation Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+                "adaptive_support": "No",
+                "description": "MQ Employee Motivation Report",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            },
+            {
+                "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+                "adaptive_support": "No",
+                "description": "MQ Motivation Report Pack",
+                "duration": 60,
+                "remote_support": "Yes",
+                "test_type": [
+                    "P"
+                ]
+            }
+    ]
+}

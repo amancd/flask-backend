@@ -10,7 +10,7 @@ _raw_data = None
 def get_model():
     global _model
     if _model is None:
-        _model = SentenceTransformer("all-MiniLM-L6-v2")
+        _model = SentenceTransformer("intfloat/e5-base-v2")
     return _model
 
 def get_data():

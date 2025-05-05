@@ -14,7 +14,7 @@ def load_model_and_data():
         raw_data = json.load(f)["recommended_assessments"]
 
     # Load model
-    model = SentenceTransformer("intfloat/e5-small-v2")
+    model = SentenceTransformer("BAAI/bge-small-en-v1.5")
 
     # Prepare documents and embeddings
     documents = [
